@@ -1,5 +1,5 @@
 # Win-11-ZerotierFix
-To fix SMB shares not being accessible through Zerotier
+To fix SMB shares not being accessible through Zerotier on Windows 11
 
 [Credits](https://github.com/zerotier/ZeroTierOne/issues/1671)
 <details>
